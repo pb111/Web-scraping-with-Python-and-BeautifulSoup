@@ -203,10 +203,19 @@ BeautifulSoup is available for Python 2.7 and Python 3. In this project, I will 
 
 I need the default Python libraries - NumPy and Pandas for data manipulation and cleaning purposes. Also, I need the Matplotlib and Seaborn libraries for data visualization. So, I will import the default Python libraries as follows:-
 
+
 `import numpy as np`
+
+
 `import pandas as pd`
+
+
 `import matplotlib.pyplot as plt`
+
+
 `import seaborn as sns`
+
+
 `%matplotlib inline`
 
 
@@ -215,13 +224,18 @@ I need the default Python libraries - NumPy and Pandas for data manipulation and
 
 ## 7. Installing BeautifulSoup
 
+
 BeautifulSoup is not a default Python library. So, we need to install it before using it. Also, we need the requests http library for this project.
+
 
 The BeautifulSoup library's name is beautifulsoup4 which stands for Beautiful Soup, version 4.
 
+
 I have Python 3.7.1 already installed on my system. So, we should run the following commands to install requests http library and beautifulSoup4 module.
 
+
 `$ pip install requests`
+
 
 `$ pip install beautifulsoup4`
 
