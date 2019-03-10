@@ -70,7 +70,7 @@ The contents of this project are divided into various sections which are as foll
 20.	Print the table cells
 
 
-=========================================================================================
+=================================================================================
 
 
 ## 1. Introduction to Web Scraping
